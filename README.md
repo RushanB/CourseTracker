@@ -1,5 +1,7 @@
 # ![](https://github.com/atfelix/CourseTracker/blob/master/CourseTracker/CT-Icon/ios/AppIcon.appiconset/Icon-App-20x20%403x.png "Course Tracker")CourseTracker 
 
+**Voted Best iOS Application at Lighthouse Labs Demo Day*
+
 iOS application for students in post secondary institutions (College/ University) that helps students by increasing their productivity. Students plan out their courses and athletics then find where it is located.
 
 ### Timeline
